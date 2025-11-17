@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=ctt2x)
-</div>
+
+<img src="https://duolingo-stats-card.vercel.app/api?username=ctt2x&theme=beach&sort=xp" alt="Duolingo Stats"/>
