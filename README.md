@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-readme-duolingo.vercel.app/api?username=ctt2x&theme=dark&show_streak=true" alt="Duolingo Streak" />
+</div>
