@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-duolingo.vercel.app/api?username=ctt2x&theme=dark&show_streak=true" alt="Duolingo Streak" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username={ctt2x}" alt="Duolingo Stats"/>
 </div>
