@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username={ctt2x}" alt="Duolingo Stats"/>
+  ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=ctt2x)
 </div>
