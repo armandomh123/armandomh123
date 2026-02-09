@@ -7,10 +7,10 @@
   <img src="https://github.com/user-attachments/assets/af2fc3a1-ee36-4bf1-80b4-f31741ef5358" alt="Jesús Armando Manjarrez Híjar" width="100%" />
 </div>
 
-  /*
+  <!---
   <img src="https://duolingo-stats-card.vercel.app/api?username=ctt2x&theme=beach&sort=xp" alt="Duolingo Stats" height="180"/>
 
-  */
+  -->
   <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armandomh123&theme=dracula" alt="Profile Details" />
 </div>
